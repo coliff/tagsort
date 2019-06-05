@@ -10,11 +10,6 @@
 	margin: 5px;
 	cursor: pointer;
 	border-radius: 12px 12px 12px 12px;
-	-moz-border-radius: 12px 12px 12px 12px;
-	-webkit-border-radius: 12px 12px 12px 12px;
-	-webkit-transition: all 0.2s ease-in-out;
-	-moz-transition: all 0.2s ease-in-out;
-	-o-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
 }
 .tagsort-tags-container span:hover {
