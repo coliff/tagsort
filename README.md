@@ -1,7 +1,7 @@
 # jQuery Tagsort plugin
 A plugin that uses HTML5 data attributes to dynamically create interactive tags that can be used to filter a set of tagged elements.
 
-Demos and docs for the plugin are avaliable [here](http://wch.io/projects/tagsort/ "Tagsort Demo").
+Demos and docs for the plugin are available [here](http://wch.io/projects/tagsort/ "Tagsort Demo").
 
 
 ### Description
